@@ -155,9 +155,9 @@ Opcional: Fluxograma simples.
 ▶️ Como Executar / Compilar
 
 1. Clonar repositório
-	
-	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git <br>
+
 	git init <br>
+	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git <br>
 	git add README.md <br>
 	git commit -m "first commit" <br>
 	git branch -M main <br>
