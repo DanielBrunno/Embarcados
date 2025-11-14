@@ -156,7 +156,7 @@ Opcional: Fluxograma simples.
 
 1. Clonar repositório
 	
-	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git
+	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git <br>
 	git init <br>
 	git add README.md <br>
 	git commit -m "first commit" <br>
