@@ -67,11 +67,11 @@ Qual tecnologia central é usada (ESP32, STM32, LoRa, etc.)
 
 🎯 	Aqui teremos práticas, nas plaformas Raspberry PI Pico W, Esp32 e PIC. O que Você encontrará?
 
-  ✅ Projetos completos com código-fonte;
-  ✅ Esquemas eletrônicos e documentação;
-  ✅ Tutoriais passo a passo;
-  ✅ Boas práticas de desenvolvimento embarcado;
-  ✅ Conteúdo pensado para estudantes, iniciantes e profissionais em transição.
+  ✅ Projetos completos com código-fonte;<br>
+  ✅ Esquemas eletrônicos e documentação;<br>
+  ✅ Tutoriais passo a passo;<br>
+  ✅ Boas práticas de desenvolvimento embarcado;<br>
+  ✅ Conteúdo pensado para estudantes, iniciantes e profissionais em transição.<br>
 
 
 📡 Arquitetura Geral
@@ -83,33 +83,33 @@ Inclua aqui um diagrama simples ou descreva:
 
 Exemplo:
 
-Inputs: Botão → GPIO
+Inputs: Botão → GPIO <br>
 
-Processamento: ESP32-S3 → Firmware em C
+Processamento: ESP32-S3 → Firmware em C <br>
 
-Comunicação: Wi-Fi → API REST
+Comunicação: Wi-Fi → API REST <br>
 
 Saída: Notificação, dashboard, armazenamento em nuvem
 
 🔧 Especificações Técnicas:
 
 Componente	Descrição
-MCU/Microcontrolador	...
-Sensores	...
-Interfaces	I2C, SPI, UART, ADC, PWM...
-Conectividade	Wi-Fi / BLE / GSM / LoRa
-Alimentação	...
-Consumo	...
+MCU/Microcontrolador	...<br>
+Sensores	...<br>
+Interfaces	I2C, SPI, UART, ADC, PWM...<br>
+Conectividade	Wi-Fi / BLE / GSM / LoRa <br>
+Alimentação	... <br>
+Consumo	... <br>
 
 📁 Estrutura do Repositório
 
-/nome-do-projeto
-   ├── docs/            → Documentação, diagramas e referências
-   ├── firmware/        → Código em C/C++/PlatformIO
-   ├── hardware/        → KiCad, esquemáticos, layout, BOM
-   ├── tests/           → Testes, validações e resultados
-   ├── assets/          → Imagens e mídias
-   └── README.md        → Este arquivo
+/nome-do-projeto <br>
+   ├── docs/            → Documentação, diagramas e referências <br>
+   ├── firmware/        → Código em C/C++/PlatformIO <br>
+   ├── hardware/        → KiCad, esquemáticos, layout, BOM <br>
+   ├── tests/           → Testes, validações e resultados <br>
+   ├── assets/          → Imagens e mídias <br>
+   └── README.md        → Este arquivo <br>
 
 
 🔌 Hardware Utilizado
@@ -158,7 +158,7 @@ Opcional: Fluxograma simples.
 	
 	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git
 
-	git init
+	git init 
 	git add README.md
 	git commit -m "first commit"
 	git branch -M main
