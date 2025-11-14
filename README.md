@@ -151,6 +151,13 @@ Opcional: Fluxograma simples.
 	git status
 	git pull
 	
+	Após as Alterações - uso:
+	
+	git status
+	git add .
+	git push -u origin feature/minha-branch
+	
+	
 	
 2. Abrir no ambiente (ex: PlatformIO)
 
