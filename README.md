@@ -157,32 +157,30 @@ Opcional: Fluxograma simples.
 1. Clonar repositório
 	
 	git clone https://github.com/DanielBrunno/Sistemas-Embarcados.git
-
-	git init 
-	git add README.md
-	git commit -m "first commit"
-	git branch -M main
-	git remote add origin https://github.com/DanielBrunno/Sistemas-Embarcados.git
-	git push -u origin main
+	git init <br>
+	git add README.md <br>
+	git commit -m "first commit" <br>
+	git branch -M main <br>
+	git remote add origin https://github.com/DanielBrunno/Sistemas-Embarcados.git <br>
+	git push -u origin main <br> <br>
 	
 	…ou faça um push em uma pasta existente: segue as linhas de comandos:
 	
-	git remote add origin https://github.com/DanielBrunno/Sistemas-Embarcados.git
-	git branch -M main
-	git push -u origin main
+	git remote add origin https://github.com/DanielBrunno/Sistemas-Embarcados.git <br>
+	git branch -M main <br>
+	git push -u origin main <br><br>
 
 	Após configurado, sempre uso os comandos - antes de começar a codificar ou modificar:
 	
-	git config --global user.email "Seu e-mail"
-	git status
-	git pull
+	git config --global user.email "Seu e-mail" <br>
+	git status <br>
+	git pull <br>
 	
 	Após as Alterações - uso:
 	
-	git status
-	git add .
-	git push -u origin feature/minha-branch
-	
+	git status <br>
+	git add . <br>
+	git push -u origin feature/minha-branch <br>
 	
 	
 2. Abrir no ambiente (ex: PlatformIO)
@@ -239,11 +237,11 @@ Conclusões principais
 
 🧭 Roadmap do Projeto
 
-✅ v0.1 – Protótipo funcionando
-✅ v0.2 – Código estruturado
-⬜ v1.0 – Placa PCB na JLCPCB
-⬜ v1.1 – Redução de consumo
-⬜ v2.0 – Versão comercial
+✅ v0.1 – Protótipo funcionando <br>
+✅ v0.2 – Código estruturado <br>
+⬜ v1.0 – Placa PCB na JLCPCB <br>
+⬜ v1.1 – Redução de consumo <br>
+⬜ v2.0 – Versão comercial. <br>
 
 🤝 Como Contribuir
 
