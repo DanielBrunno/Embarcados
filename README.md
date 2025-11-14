@@ -1,3 +1,29 @@
+<div align="center">
+
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2B94C3&width=1150&lines=Olá!+Meu+nome+é+Daniel+Bruno;Desenvolvedor+Full+Stack+e+Embarcados;Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+</a>
+
+<!-- Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-008B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-IoT-2B94C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Management-AGILE-008B8B?style=for-the-badge" />
+</div>
+
+<br/>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbrito.ti@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+
+</div>
+
 # Embarcados
 
 👋 Bem-vindo ao meu Projeto de Sistemas Embarcados
