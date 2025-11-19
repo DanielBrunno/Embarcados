@@ -12,4 +12,16 @@ poderá criar muitos projetos interessantes.
 ```
 
 ![Figura 1.0](../assets/imagens/TelaWokwi.png)
+Fonte e créditos: url: https://wokwi.com - acessado em 19/setembro/25.
 
+***
+   Para fazer uso desta ferramenta, é preciso realizar um cadastro que até o momento em que escrevo este tópico,
+  é realizado de forma gratuita e começar a usufruir do ambiente de desenvolvimento para desenvolver seus estudos.
+  Lembrando que, ao construir seus projetos em conta gratuita, ficará disponibilidade para que outras pessoas
+  possam ver e usar como base que outras criações. Então, podemos usar também como portifólio de nossas
+  aplicações.
+
+  Para acessar a plataforma segue o link oficial obtido no site do criador:
+  [https://wokwi.com](https://wokwi.com)
+  
+***
