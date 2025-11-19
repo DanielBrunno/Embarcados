@@ -143,7 +143,8 @@ Consumo	... <br>
 
 Se possível, adicionar fotos reais em /assets/:
 
-![Foto do protótipo](./assets/prototipo.jpg)
+![Foto do protótipo](./assets/imagens/MeuWokwi.png)
+Fonte e créditos: wokwi.
 
 
 💻 Firmware / Software
