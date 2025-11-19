@@ -21,7 +21,8 @@ Fonte e créditos: url: https://wokwi.com - acessado em 19/setembro/25.
   possam ver e usar como base que outras criações. Então, podemos usar também como portifólio de nossas
   aplicações.
 
-  Para acessar a plataforma segue o link oficial obtido no site do criador:
-  [https://wokwi.com](https://wokwi.com)
+    Na plataforma possuo um espaço onde deposito alguns protótipos básicos para uso minha rede social no Instagram:
+    @tecnologiaaplicadaoficial - segue o link para ver esses exemplos:
+  [Meu Wokwi: ]([https://wokwi.com](https://wokwi.com/makers/danielbruno))
   
 ***
