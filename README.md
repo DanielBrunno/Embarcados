@@ -39,33 +39,34 @@
   Vamos inovar juntos! 🚀
 
 
-	Abaixo segue nossa estrutura para documentação OEM/IoT/embedded(Embarcados) que pessamos em transmitir qualidade técnica aos visitantes e recrutadores.
+	Abaixo segue nossa estrutura para documentação OEM/IoT/embedded(Embarcados) que pessamos em transmitir qualidade técnica
+	aos	visitantes e recrutadores.
 
 Você pode copiar e colar este template em seus projetos - fique a vontate , será uma honra ter contribuído:
 
 
 ### 🛠️ Nome do Projeto: Embarcados com Daniel Bruno.
 
-	Compartilhando conhecimento em Sistemas Embarcados de forma prática, acessível e aplicável ao mundo real com práticas, nas plaformas 
-	Raspberry PI Pico W, Esp32 e PIC.
+	Compartilhando conhecimento em Sistemas Embarcados de forma prática, acessível e aplicável ao mundo real com práticas, 
+	nas plaformas Raspberry PI Pico W, Esp32 e PIC.
 
 Breve descrição do que o dispositivo faz (1 frase)
 
 📘 Resumo do Projeto - Explique em 3–5 linhas:
 
-  Este repositório marca o início de uma jornada muito especial: compartilhar meu conhecimento em Sistemas Embarcados de forma prática, 
-  acessível e aplicável ao mundo real.
+  Este repositório marca o início de uma jornada muito especial: compartilhar meu conhecimento em Sistemas Embarcados de
+  forma prática, acessível e aplicável ao mundo real.
 
 Qual é o objetivo do projeto
 
-	Meu objetivo é construir um espaço onde qualquer pessoa, independentemente do nível técnico, possa aprender, experimentar e evoluir
-	dentro da área de Sistemas Embarcados.
+	Meu objetivo é construir um espaço onde qualquer pessoa, independentemente do nível técnico, possa aprender, 
+	experimentar e evoluir dentro da área de Sistemas Embarcados.
   
   
 Qual problema ele resolve
 
-	A dificuldade de encontrar protótipos e artigos sobre embarcados na internet nos encorajou a produzir este repositório. Não para 
-	substituir os que existem. Mas, para ser uma ferramenta a mais para auxiliar aqueles que buscam esse conhecimento.
+	A dificuldade de encontrar protótipos e artigos sobre embarcados na internet nos encorajou a produzir este repositório.
+	Não para substituir os que existem. Mas, para ser uma ferramenta a mais para auxiliar aqueles que buscam esse conhecimento.
 
 Em que contexto pode ser aplicado (IoT, OEM, automação, estudo etc.)
 Qual tecnologia central é usada (ESP32, STM32, LoRa, etc.)
