@@ -27,5 +27,5 @@ Na plataforma possuo um espaço onde deposito alguns protótipos básicos para u
 @tecnologiaaplicadaoficial - segue o link para ver esses exemplos:
 [Protótipos no Wokwi: ](https://wokwi.com/makers/danielbruno)
 
-![Figura 1.0](../assets/imagens/MeuWokwi.png)
+![Figura 1.1](../assets/imagens/MeuWokwi.png)
 Fonte e créditos: wokwi.
