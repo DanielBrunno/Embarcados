@@ -11,8 +11,9 @@
 
 ```plaintext
 
-	Este conteúdo faz parte de um repositório em evolução, criado para ajudar iniciantes e entusiastas a compreender os pilares da<br>
- eletrônica aplicada à IoT. A cada atualização, novos tópicos e exemplos práticos serão inseridos.
+	Este conteúdo faz parte de um repositório em evolução, criado para ajudar iniciantes e entusiastas a
+compreender os pilares da  eletrônica aplicada à IoT. A cada atualização, novos tópicos e exemplos práticos
+serão inseridos.
 
 ```
 
@@ -21,12 +22,15 @@
 
 ```plaintext
 
-	O sistema de numeração tem sua importância tanto para nós, seres humanos, quanto para as máquinas no mundo digital. Assim como nós, <br>
-as máquinas utilizam os sistemas diariamente. É possível perceber esse uso quando entendemos que ao apertar uma tecla no teclado, a exemplo da<br>
- letra K, esta representação do caractere da tecla é representado em forma de sistema de base dezesseis (um código hexadecimal) - que é convertido<br>
- para o sistema de base dois, mais conhecido como sistema binário de numeração (0 e 1). E se aprofundar mais a pesquisa, verá que o binário se
-transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de tensão. Todo dispositivo eletrônico utiliza esses sistemas continuamente.
-	Entender esses sistemas é essencial para compreender como microcontroladores, sensores e dispositivos IoT interpretam comandos e processam informações.
+	O sistema de numeração tem sua importância tanto para nós, seres humanos, quanto para as máquinas no mundo
+digital. Assim como nós, as máquinas utilizam os sistemas diariamente. É possível perceber esse uso quando
+entendemos que ao apertar uma tecla no teclado, a exemplo da letra K, esta representação do caractere da tecla
+é representado em forma de sistema de base dezesseis (um código hexadecimal) - que é convertido para o sistema
+de base dois, mais conhecido como sistema binário de numeração (0 e 1). E se aprofundar mais a pesquisa, verá
+que o binário se transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de tensão.
+Todo dispositivo eletrônico utiliza esses sistemas continuamente.
+	Entender esses sistemas é essencial para compreender como microcontroladores, sensores e dispositivos IoT
+interpretam comandos e processam informações.
 	Prepare-se para desvendar as bases da eletrônica digital. Boa Leitura!
 
 ```
@@ -40,7 +44,8 @@ transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de
 	Para compreender dispositivos eletrônicos, é essencial entender:
         • Tensão Alternada (AC);
         • Tensão Contínua (DC).
-	Cada uma tem suas características e aplicações — e veremos como elas afetam diretamente o funcionamento dos aparelhos.
+	Cada uma tem suas características e aplicações — e veremos como elas afetam diretamente o funcionamento
+ dos aparelhos.
 
 ```
 
@@ -80,9 +85,10 @@ transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de
 
 ```plaintext
 
-	Alguns conhecem pela nomenclatura oficial “circuito elétrico”, outros por “esquema elétrico ou esquemático”. Nesses esquemas elétricos, há uma simbologia que representam dos componentes nos projetos.
+	Alguns conhecem pela nomenclatura oficial “circuito elétrico”, outros por “esquema elétrico ou esquemático”.
+ Nesses esquemas elétricos, há uma simbologia que representam dos componentes nos projetos.
 
-	Você já deve ter visto um “desenho elétrico” cheio de símbolos ?.
+	Você já deve ter visto um “desenho elétrico” cheio de símbolos.
 	Esse é o esquemático eletrônico, que representa:
         • Componentes;
         • Interligações;
@@ -100,14 +106,17 @@ transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de
 
 ```plaintext
 
-	A maior parte dos eletrônicos não pode ser ligada diretamente na tomada — isso causaria danos e até acidentes ??. Muitos operam em tensões diferentes e menores, não funcionam em tensão alternada. É necessário converter essa tensão alternada em tensão retificada e contínua. 
+	A maior parte dos eletrônicos não pode ser ligada diretamente na tomada — isso causaria danos e até acidentes.
+ Muitos operam em tensões diferentes e menores, não funcionam em tensão alternada. É necessário converter essa
+tensão alternada em tensão retificada e contínua. 
 	Por isso, usamos fontes estabilizadoras, que:
         • Convertem AC / DC
         • Reduzem tensões (5V, 9V, 12V, 24V…)
         • Protegem dispositivos
 	Existem vários fabricantes e marcas que fabricam essas fontes nas mais variadas tensões de saídas. 
 
-	Neste projeto, daremos foco à fonte de 12V, usada para testes e experimentos com os componentes que estudaremos ao longo do conteúdo.
+	Neste projeto, daremos foco à fonte de 12V, usada para testes e experimentos com os componentes que estudaremos
+ ao longo do conteúdo.
 
 ```
 
@@ -127,7 +136,8 @@ Para entender como cada componente funciona, precisamos conhecer:
 ### Repositório em Construção
 ***
 
-	Lembrando que este repositório está sendo construído em etapas. Hoje é isto. Depois voltarei com mais detalhes nos tópicos aqui apresentados. Acompanhe e participe dessa evolução de conhecimento. Uma ótima semana. 
+	Lembrando que este repositório está sendo construído em etapas. Hoje é isto. Depois voltarei com mais
+	detalhes nos tópicos aqui apresentados. Acompanhe e participe dessa evolução de conhecimento. Uma ótima semana. 
 
 	Este repositório está sendo atualizado continuamente.
 	• Novo conteúdo será adicionado regularmente.
