@@ -1,91 +1,83 @@
 
-#Eletrônica para IoT com Daniel Bruno
+# EletrÃ´nica para IoT com Daniel Bruno
 
-## O que você vai aprender
-	Este conteúdo faz parte de um repositório em evolução, criado para ajudar iniciantes e entusiastas a compreender os pilares da eletrônica aplicada à IoT.
-A cada atualização, novos tópicos e exemplos práticos serão inseridos.
+## O que vocÃª vai aprender
 
+	Este conteÃºdo faz parte de um repositÃ³rio em evoluÃ§Ã£o, criado para ajudar iniciantes e entusiastas a compreender os pilares da eletrÃ´nica aplicada Ã  IoT. A cada atualizaÃ§Ã£o, novos tÃ³picos e exemplos prÃ¡ticos serÃ£o inseridos.
 
+### 1. Sistema de NumeraÃ§Ã£o
 
-### 1. Sistema de Numeração
-	O sistema de numeração tem sua importância tanto para nós, seres humanos, quanto para as máquinas no mundo digital. Assim como nós, as máquinas utilizam os sistemas diariamente. É possível perceber esse uso quando entendemos que ao apertar uma tecla no teclado, a exemplo da letra K, esta representação do caractere da tecla é representado em forma de sistema de base dezesseis (um código hexadecimal) ? que é convertido para o sistema de base dois, mais conhecido como sistema binário de numeração (0 e 1). E se aprofundar mais a pesquisa, verá que o binário se transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de tensão. Todo dispositivo eletrônico utiliza esses sistemas continuamente.
-??Entender esses sistemas é essencial para compreender como microcontroladores, sensores e dispositivos IoT interpretam comandos e processam informações.
-??Prepare-se para desvendar as bases da eletrônica digital. Boa Leitura!
+	O sistema de numeraÃ§Ã£o tem sua importÃ¢ncia tanto para nÃ³s, seres humanos, quanto para as mÃ¡quinas no mundo digital. Assim como nÃ³s, as mÃ¡quinas utilizam os sistemas diariamente. Ã‰ possÃ­vel perceber esse uso quando entendemos que ao apertar uma tecla no teclado, a exemplo da letra K, esta representaÃ§Ã£o do caractere da tecla Ã© representado em forma de sistema de base dezesseis (um cÃ³digo hexadecimal) ? que Ã© convertido para o sistema de base dois, mais conhecido como sistema binÃ¡rio de numeraÃ§Ã£o (0 e 1). E se aprofundar mais a pesquisa, verÃ¡ que o binÃ¡rio se transforma em pulsos elÃ©tricos, variando entre presenÃ§a (1) e ausÃªncia (0) de tensÃ£o. Todo dispositivo eletrÃ´nico utiliza esses sistemas continuamente.
+	Entender esses sistemas Ã© essencial para compreender como microcontroladores, sensores e dispositivos IoT interpretam comandos e processam informaÃ§Ãµes.
+	Prepare-se para desvendar as bases da eletrÃ´nica digital. Boa Leitura!
 
+### 2. Tipos de TensÃ£o ElÃ©trica
+	Tudo comeÃ§a na energia que sai da tomada?.
+	Para compreender dispositivos eletrÃ´nicos, Ã© essencial entender:
+        â€¢ TensÃ£o Alternada (AC);
+        â€¢ TensÃ£o ContÃ­nua (DC).
+	Cada uma tem suas caracterÃ­sticas e aplicaÃ§Ãµes â€” e veremos como elas afetam diretamente o funcionamento dos aparelhos.
 
-### 2. Tipos de Tensão Elétrica
-	Tudo começa na energia que sai da tomada?.
-	Para compreender dispositivos eletrônicos, é essencial entender:
-        ? Tensão Alternada (AC);
-        ? Tensão Contínua (DC).
-	Cada uma tem suas características e aplicações — e veremos como elas afetam diretamente o funcionamento dos aparelhos.
+### 3. RetificaÃ§Ã£o de Corrente
 
-
-### 3. Retificação de Corrente
-
-	Preparando a tensão elétrica para uso em aparelhos eletrônicos.
-	A retificação é o processo que transforma AC em DC.
-	Esse passo é crucial para:
-        ? Alimentar circuitos eletrônicos;
-        ? Reduzir riscos;
-        ? Permitir que microcontroladores e sensores funcionem corretamente.
-
-	? Veremos como diodos, pontes retificadoras e outros dispositivos entram em ação.
-
-
-
+	Preparando a tensÃ£o elÃ©trica para uso em aparelhos eletrÃ´nicos.
+	A retificaÃ§Ã£o Ã© o processo que transforma AC em DC.
+	
+	Esse passo Ã© crucial para:
+        â€¢ Alimentar circuitos eletrÃ´nicos;
+        â€¢ Reduzir riscos;
+        â€¢ Permitir que microcontroladores e sensores funcionem corretamente.
+	Veremos como diodos, pontes retificadoras e outros dispositivos entram em aÃ§Ã£o.
 
 ### 4. Sistema de Filtro de Corrente
 
-	Um amigo dos componentes sensíveis nos sistemas digitais.
-	Após a retificação, a corrente ainda não está totalmente limpa.
+	Um amigo dos componentes sensÃ­veis nos sistemas digitais.
+	ApÃ³s a retificaÃ§Ã£o, a corrente ainda nÃ£o estÃ¡ totalmente limpa.
 	O filtro de corrente:
-        ? Suaviza ondulações;
-        ? Protege componentes sensíveis;
-        ? Estabiliza a alimentação de sistemas digitais.
-	É aqui que entram os famosos capacitores — os "amortecedores" da eletrônica. E também, as boninas.
+        â€¢ Suaviza ondulaÃ§Ãµes;
+        â€¢ Protege componentes sensÃ­veis;
+        â€¢ Estabiliza a alimentaÃ§Ã£o de sistemas digitais.
+	Ã‰ aqui que entram os famosos capacitores â€” os "amortecedores" da eletrÃ´nica. E tambÃ©m, as boninas.
 
-### 5. Breve Conhecimento Sobre Circuitos Eletrônicos
+### 5. Breve Conhecimento Sobre Circuitos EletrÃ´nicos
 
+	Alguns conhecem pela nomenclatura oficial â€œcircuito elÃ©tricoâ€, outros por â€œesquema elÃ©trico ou esquemÃ¡ticoâ€. Nesses esquemas elÃ©tricos, hÃ¡ uma simbologia que representam dos componentes nos projetos.
 
-	Alguns conhecem pela nomenclatura oficial “circuito elétrico”, outros por “esquema elétrico ou esquemático”. Nesses esquemas elétricos, há uma simbologia que representam dos componentes nos projetos.
-
-	Você já deve ter visto um “desenho elétrico” cheio de símbolos ?.
-	Esse é o esquemático eletrônico, que representa:
-        ? Componentes;
-        ? Interligações;
-        ? Fluxos de energia.
+	VocÃª jÃ¡ deve ter visto um â€œdesenho elÃ©tricoâ€ cheio de sÃ­mbolos ?.
+	Esse Ã© o esquemÃ¡tico eletrÃ´nico, que representa:
+        â€¢ Componentes;
+        â€¢ InterligaÃ§Ãµes;
+        â€¢ Fluxos de energia.
       
-	Neste tópico veremos:
-	??	O que é um circuito;
-	??	Como interpretar esquemas;
-	??	Símbolos eletrônicos essenciais.
-
+		Neste tÃ³pico veremos:
+		â€¢	O que Ã© um circuito;
+		â€¢	Como interpretar esquemas;
+		â€¢	SÃ­mbolos eletrÃ´nicos essenciais.
 
 ### 6. O que existe dentro de fontes de 12V
-	A maior parte dos eletrônicos não pode ser ligada diretamente na tomada — isso causaria danos e até acidentes ??. Muitos operam em tensões diferentes e menores, não funcionam em tensão alternada. É necessário converter essa tensão alternada em tensão retificada e contínua. 
+
+	A maior parte dos eletrÃ´nicos nÃ£o pode ser ligada diretamente na tomada â€” isso causaria danos e atÃ© acidentes ??. Muitos operam em tensÃµes diferentes e menores, nÃ£o funcionam em tensÃ£o alternada. Ã‰ necessÃ¡rio converter essa tensÃ£o alternada em tensÃ£o retificada e contÃ­nua. 
 	Por isso, usamos fontes estabilizadoras, que:
-        ? Convertem AC ? DC
-        ? Reduzem tensões (5V, 9V, 12V, 24V…)
-        ? Protegem dispositivos
-	Existem vários fabricantes e marcas que fabricam essas fontes nas mais variadas tensões de saídas. 
+        â€¢ Convertem AC / DC
+        â€¢ Reduzem tensÃµes (5V, 9V, 12V, 24Vâ€¦)
+        â€¢ Protegem dispositivos
+	Existem vÃ¡rios fabricantes e marcas que fabricam essas fontes nas mais variadas tensÃµes de saÃ­das. 
 
-	Neste projeto, daremos foco à fonte de 12V, usada para testes e experimentos com os componentes que estudaremos ao longo do conteúdo.
+	Neste projeto, daremos foco Ã  fonte de 12V, usada para testes e experimentos com os componentes que estudaremos ao longo do conteÃºdo.
 
-### 7. Hora de conhecer os alguns componentes eletrônicos
+### 7. Hora de conhecer os alguns componentes eletrÃ´nicos
 
 Para entender como cada componente funciona, precisamos conhecer:
-    • Suas grandezas elétricas;
-    • Unidades de medida;
-    • Funções práticas em circuitos.
- 	• Resistores, capacitores, diodos, transistores, LEDs e muitos outros serão explorados com exemplos reais.
+    â€¢ Suas grandezas elÃ©tricas;
+    â€¢ Unidades de medida;
+    â€¢ FunÃ§Ãµes prÃ¡ticas em circuitos.
+ 	â€¢ Resistores, capacitores, diodos, transistores, LEDs e muitos outros serÃ£o explorados com exemplos reais.
 
-### Repositório em Construção
+### RepositÃ³rio em ConstruÃ§Ã£o
 
-	Lembrando que este repositório está sendo construído em etapas. Hoje é isto. Depois voltarei com mais detalhes nos tópicos aqui apresentados. Acompanhe e participe dessa evolução de conhecimento. Uma ótima semana. 
+	Lembrando que este repositÃ³rio estÃ¡ sendo construÃ­do em etapas. Hoje Ã© isto. Depois voltarei com mais detalhes nos tÃ³picos aqui apresentados. Acompanhe e participe dessa evoluÃ§Ã£o de conhecimento. Uma Ã³tima semana. 
 
-
-	Este repositório está sendo atualizado continuamente.
-	?? Novo conteúdo será adicionado regularmente.
-	? Você é convidado a acompanhar, comentar e contribuir!
-	Que este material ajude você a crescer no universo da Eletrônica para IoT.
+	Este repositÃ³rio estÃ¡ sendo atualizado continuamente.
+	?? Novo conteÃºdo serÃ¡ adicionado regularmente.
+	? VocÃª Ã© convidado a acompanhar, comentar e contribuir!
+	Que este material ajude vocÃª a crescer no universo da EletrÃ´nica para IoT.
