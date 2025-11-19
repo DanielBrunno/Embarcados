@@ -2,7 +2,6 @@
 # Plataformas para prototipar online.
 ***
 
-´´´
   Para quem está iniciando nesta área, por vezes, pode sentir dificuldades com relação aos custo de adquirir
 as placas, sesnsores e atuadores. Para amenizar e tornar o acesso a esse conhecimento em Sistemas Embarcados(IoT),
 existe platoformas web onde é possível criar e prototipar projetos, testar códigos e validar algumas implementações
@@ -14,4 +13,3 @@ poderá criar muitos projetos interessantes.
 
 ![Figura 1.0](assets/imagens/TelaWokwi.png)
 
-´´´
