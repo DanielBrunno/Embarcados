@@ -277,8 +277,8 @@ Sinta-se livre para usar, modificar e distribuir.
 
 📬 Contato
 
-📧 E-mail: danielbrito.ti@gmail.com
-🔗 LinkedIn: in/daniel-bruno-976aaa154
+📧 E-mail: danielbrito.ti@gmail.com <br>
+🔗 LinkedIn: in/daniel-bruno-976aaa154 <br>
 🐙 GitHub: github.com/DanielBrunno
 
 	Então, é isto. Como podem ver - este é o início de um grande trabalho pela frente. 
