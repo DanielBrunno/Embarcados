@@ -103,14 +103,25 @@ Consumo	... <br>
 
 📁 Estrutura do Repositório
 
+---
+
+## Estrutura Geral para projetos
+
+```plaintext
 /nome-do-projeto <br>
+   ├── Wiki/
+   │   ├── Documentação/
+   │   └── Documento de Visão.md
    ├── docs/            → Documentação, diagramas e referências <br>
    ├── firmware/        → Código em C/C++/PlatformIO <br>
    ├── hardware/        → KiCad, esquemáticos, layout, BOM <br>
    ├── tests/           → Testes, validações e resultados <br>
    ├── assets/          → Imagens e mídias <br>
    └── README.md        → Este arquivo <br>
-
+   ├── .gitignore
+   ├── README.md
+   └── LICENSE
+```
 
 🔌 Hardware Utilizado
 
