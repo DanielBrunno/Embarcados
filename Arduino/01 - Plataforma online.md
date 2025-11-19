@@ -20,9 +20,9 @@ Fonte e créditos: url: https://wokwi.com - acessado em 19/setembro/25.
   Lembrando que, ao construir seus projetos em conta gratuita, ficará disponibilidade para que outras pessoas
   possam ver e usar como base que outras criações. Então, podemos usar também como portifólio de nossas
   aplicações.
-
-    Na plataforma possuo um espaço onde deposito alguns protótipos básicos para uso minha rede social no Instagram:
-    @tecnologiaaplicadaoficial - segue o link para ver esses exemplos:
-  [Meu Wokwi: ]([https://wokwi.com](https://wokwi.com/makers/danielbruno))
   
 ***
+
+Na plataforma possuo um espaço onde deposito alguns protótipos básicos para uso minha rede social no Instagram:
+@tecnologiaaplicadaoficial - segue o link para ver esses exemplos:
+[Protótipos no Wokwi: ]([https://wokwi.com](https://wokwi.com/makers/danielbruno)
