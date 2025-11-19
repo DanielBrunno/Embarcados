@@ -11,7 +11,8 @@
 
 ```plaintext
 
-	Este conteúdo faz parte de um repositório em evolução, criado para ajudar iniciantes e entusiastas a compreender os pilares da eletrônica aplicada à IoT. A cada atualização, novos tópicos e exemplos práticos serão inseridos.
+	Este conteúdo faz parte de um repositório em evolução, criado para ajudar iniciantes e entusiastas a compreender os pilares da<br>
+ eletrônica aplicada à IoT. A cada atualização, novos tópicos e exemplos práticos serão inseridos.
 
 ```
 
@@ -20,7 +21,11 @@
 
 ```plaintext
 
-	O sistema de numeração tem sua importância tanto para nós, seres humanos, quanto para as máquinas no mundo digital. Assim como nós, as máquinas utilizam os sistemas diariamente. É possível perceber esse uso quando entendemos que ao apertar uma tecla no teclado, a exemplo da letra K, esta representação do caractere da tecla é representado em forma de sistema de base dezesseis (um código hexadecimal) ? que é convertido para o sistema de base dois, mais conhecido como sistema binário de numeração (0 e 1). E se aprofundar mais a pesquisa, verá que o binário se transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de tensão. Todo dispositivo eletrônico utiliza esses sistemas continuamente.
+	O sistema de numeração tem sua importância tanto para nós, seres humanos, quanto para as máquinas no mundo digital. Assim como nós, <br>
+as máquinas utilizam os sistemas diariamente. É possível perceber esse uso quando entendemos que ao apertar uma tecla no teclado, a exemplo da<br>
+ letra K, esta representação do caractere da tecla é representado em forma de sistema de base dezesseis (um código hexadecimal) - que é convertido<br>
+ para o sistema de base dois, mais conhecido como sistema binário de numeração (0 e 1). E se aprofundar mais a pesquisa, verá que o binário se
+transforma em pulsos elétricos, variando entre presença (1) e ausência (0) de tensão. Todo dispositivo eletrônico utiliza esses sistemas continuamente.
 	Entender esses sistemas é essencial para compreender como microcontroladores, sensores e dispositivos IoT interpretam comandos e processam informações.
 	Prepare-se para desvendar as bases da eletrônica digital. Boa Leitura!
 
