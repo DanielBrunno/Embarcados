@@ -281,6 +281,7 @@ Sinta-se livre para usar, modificar e distribuir.
 🔗 LinkedIn: in/daniel-bruno-976aaa154
 🐙 GitHub: github.com/DanielBrunno
 
-	Então, é isto. Como podem ver - este é o início de um grande trabalho pela frente. O esboço acima pode ser usado e melhorado.
-	Vamos em frente e até as próximas criações - estamos iniciando uma jornada nova neste momento.
+	Então, é isto. Como podem ver - este é o início de um grande trabalho pela frente. 
+	O esboço acima pode ser usado e melhorado.	Vamos em frente e até as próximas
+	criações - estamos iniciando uma jornada nova neste momento.
 	
