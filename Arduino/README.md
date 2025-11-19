@@ -8,5 +8,6 @@
 	começar com implementações iniciais - um Hello World (Acender um led) e ir avançando para projetos que utilizam
 	sensores mais complexo. 🚀
 
-	Não pensamos em reinventar a roda. Vamos mostrar o que já existe e pode ser copiado e adequado a necessidade o seu estudo.
+	Não pensamos em reinventar a roda. Vamos mostrar o que já existe e pode ser copiado e adequado a necessidade o
+ seu estudo.
 ```
