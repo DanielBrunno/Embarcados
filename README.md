@@ -59,14 +59,15 @@ Breve descrição do que o dispositivo faz (1 frase)
 
 Qual é o objetivo do projeto
 
-	Meu objetivo é construir um espaço onde qualquer pessoa, independentemente do nível técnico, possa aprender, 
-	experimentar e evoluir dentro da área de Sistemas Embarcados.
+	Meu objetivo é construir um espaço onde qualquer pessoa, independentemente do nível técnico, 
+	possa aprender, experimentar e evoluir dentro da área de Sistemas Embarcados.
   
   
 Qual problema ele resolve
 
-	A dificuldade de encontrar protótipos e artigos sobre embarcados na internet nos encorajou a produzir este repositório.
-	Não para substituir os que existem. Mas, para ser uma ferramenta a mais para auxiliar aqueles que buscam esse conhecimento.
+	A dificuldade de encontrar protótipos e artigos sobre embarcados na internet nos encorajou a
+	produzir este repositório. Não para substituir os que existem. Mas, para ser uma ferramenta a
+	mais para auxiliar aqueles que buscam esse conhecimento.
 
 Em que contexto pode ser aplicado (IoT, OEM, automação, estudo etc.)
 Qual tecnologia central é usada (ESP32, STM32, LoRa, etc.)
