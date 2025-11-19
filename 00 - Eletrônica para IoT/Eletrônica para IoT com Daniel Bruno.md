@@ -78,6 +78,7 @@ Para entender como cada componente funciona, precisamos conhecer:
 	Lembrando que este repositório está sendo construído em etapas. Hoje é isto. Depois voltarei com mais detalhes nos tópicos aqui apresentados. Acompanhe e participe dessa evolução de conhecimento. Uma ótima semana. 
 
 	Este repositório está sendo atualizado continuamente.
-	?? Novo conteúdo será adicionado regularmente.
-	? Você é convidado a acompanhar, comentar e contribuir!
+	• Novo conteúdo será adicionado regularmente.
+	• Você é convidado a acompanhar, comentar e contribuir!
+	
 	Que este material ajude você a crescer no universo da Eletrônica para IoT.
