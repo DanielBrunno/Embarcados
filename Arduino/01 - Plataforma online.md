@@ -25,7 +25,7 @@ Fonte e créditos: url: https://wokwi.com - acessado em 19/setembro/25.
 
 Na plataforma possuo um espaço onde deposito alguns protótipos básicos para uso minha rede social no Instagram:
 @tecnologiaaplicadaoficial - segue o link para ver esses exemplos:
-[Protótipos no Wokwi: ](https://wokwi.com/makers/danielbruno)
+[Protótipos no Wokwi](https://wokwi.com/makers/danielbruno)
 
 ![Figura 1.1](../assets/imagens/MeuWokwi.png)
 Fonte e créditos: wokwi.
