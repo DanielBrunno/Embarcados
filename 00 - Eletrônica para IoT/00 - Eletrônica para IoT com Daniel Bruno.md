@@ -35,7 +35,7 @@ interpretam comandos e processam informações.
 
 ```
 
-### 2. Tipos de Tensão Elétrica
+## 2. Tipos de Tensão Elétrica
 ***
 
 ```plaintext
@@ -49,7 +49,7 @@ interpretam comandos e processam informações.
 
 ```
 
-### 3. Retificação de Corrente
+## 3. Retificação de Corrente
 ***
 
 ```plaintext
@@ -65,7 +65,7 @@ interpretam comandos e processam informações.
 
 ```
 
-### 4. Sistema de Filtro de Corrente
+## 4. Sistema de Filtro de Corrente
 ***
 
 ```plaintext
@@ -80,7 +80,7 @@ interpretam comandos e processam informações.
 
 ```
 
-### 5. Breve Conhecimento Sobre Circuitos Eletrônicos
+## 5. Breve Conhecimento Sobre Circuitos Eletrônicos
 ***
 
 ```plaintext
@@ -101,7 +101,7 @@ interpretam comandos e processam informações.
 
 ```
 
-### 6. O que existe dentro de fontes de 12V
+## 6. O que existe dentro de fontes de 12V
 ***
 
 ```plaintext
@@ -120,7 +120,7 @@ tensão alternada em tensão retificada e contínua.
 
 ```
 
-### 7. Hora de conhecer os alguns componentes eletrônicos
+## 7. Hora de conhecer os alguns componentes eletrônicos
 ***
 
 ```plaintext
@@ -133,7 +133,7 @@ Para entender como cada componente funciona, precisamos conhecer:
 
 ```
 
-### Repositório em Construção
+## Repositório em Construção
 ***
 
 	Lembrando que este repositório está sendo construído em etapas. Hoje é isto. Depois voltarei com mais
