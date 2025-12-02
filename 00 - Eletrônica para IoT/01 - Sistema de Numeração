@@ -2,15 +2,10 @@
 
 # 1 - Sistema de numeração
 
-      Quando estuda sobre desenvolvimento de sistemas para computadores (a programação) e também com o intuito de aprender a eletrônica digital,
-é possível entender que as máquinas computacionais fazem uso do sistema de numeração para para realizar processos e entregar resultados aos usuários
-desses sistemas. Quando falamos de sistemas, podemos dizer que estamos falando de firmware que são os sistemas (conjunto de instruções) que projetamos e
-desenvolvemos para ser instalado nos microntrolaores das soluções de Sistemas Embarbados com a finalidade desse microcontrolador realizar as terefas 
-fedinidas por essa programação contida no software. E também, falando em mais alto nível os sistemas (software) também são muito utilizados em diversas
-aplicações online ou máquinas com aplicação em vários setores no mercado como: o agronegócio, o comércio, a saúde, o automotivo e muitos outros que podem 
-nos impactar de forma positiva e ajudar em nossas tarefas no dia a dia.
-      Vamos então entender alguns sistemas de numeração utlizados. Afinal, tudo se transformar em 0 ou 1 para ser entendido pela máquina como: não tem pulso 
-elétrico (0) ou não tem pulso (1). Na eletrônica, quando aprendemos a "domar esses pulsos", é possível criar coisas incríveis.
+Quando estudamos desenvolvimento de sistemas para computadores — seja programação de software ou eletrônica digital — é fundamental entender que as máquinas fazem uso de sistemas de numeração para processar informações e entregar resultados aos usuários.
+Quando falamos em sistemas, podemos nos referir tanto ao firmware (o conjunto de instruções instalado nos microcontroladores em projetos de Sistemas Embarcados) quanto ao software de alto nível, presente em aplicações web, computadores e dispositivos utilizados em áreas como agronegócio, comércio, saúde, setor automotivo e muitas outras. Todos esses sistemas, de alguma forma, dependem da lógica numérica para funcionar.
+Portanto, compreender como os números são representados dentro da máquina é essencial. Afinal, tudo se transforma em 0 ou 1 para ser interpretado pela eletrônica como ausência de pulso elétrico (0) ou presença de pulso elétrico (1). Quando aprendemos a “domar esses pulsos”, abrimos caminho para criar soluções realmente incríveis.
+
 
 # Sistema de numeração Binário
 
