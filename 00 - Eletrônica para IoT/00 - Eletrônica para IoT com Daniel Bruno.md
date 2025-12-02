@@ -17,7 +17,7 @@ serão inseridos.
 
 ```
 
-[### 1. Sistema de Numeração](https://github.com/DanielBrunno/Embarcados/blob/main/00%20-%20Eletr%C3%B4nica%20para%20IoT/01%20-%20Sistema%20de%20Numera%C3%A7%C3%A3o.md)
+[1. Sistema de Numeração](https://github.com/DanielBrunno/Embarcados/blob/main/00%20-%20Eletr%C3%B4nica%20para%20IoT/01%20-%20Sistema%20de%20Numera%C3%A7%C3%A3o.md)
 ***
 
 ```plaintext
