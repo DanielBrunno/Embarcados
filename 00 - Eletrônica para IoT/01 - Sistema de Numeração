@@ -1,0 +1,17 @@
+
+
+# 1 - Sistema de numeração
+
+      Quando estuda sobre desenvolvimento de sistemas para computadores (a programação) e também com o intuito de aprender a eletrônica digital,
+é possível entender que as máquinas computacionais fazem uso do sistema de numeração para para realizar processos e entregar resultados aos usuários
+desses sistemas. Quando falamos de sistemas, podemos dizer que estamos falando de firmware que são os sistemas (conjunto de instruções) que projetamos e
+desenvolvemos para ser instalado nos microntrolaores das soluções de Sistemas Embarbados com a finalidade desse microcontrolador realizar as terefas 
+fedinidas por essa programação contida no software. E também, falando em mais alto nível os sistemas (software) também são muito utilizados em diversas
+aplicações online ou máquinas com aplicação em vários setores no mercado como: o agronegócio, o comércio, a saúde, o automotivo e muitos outros que podem 
+nos impactar de forma positiva e ajudar em nossas tarefas no dia a dia.
+      Vamos então entender alguns sistemas de numeração utlizados. Afinal, tudo se transformar em 0 ou 1 para ser entendido pela máquina como: não tem pulso 
+elétrico (0) ou não tem pulso (1). Na eletrônica, quando aprendemos a "domar esses pulsos", é possível criar coisas incríveis.
+
+# Sistema de numeração Binário
+
+      Como foi lido, para máquina, tudo é entendido como 0 ou 1... 
