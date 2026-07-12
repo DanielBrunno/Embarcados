@@ -3,8 +3,7 @@
 
 ### Introdução
 
-	O objetivo deste material é apresentar a Arquitetura da conectividade LORA. Para isto, 
-  é interessante entender sobre Internet das Coisas, uma infraestrutura baseada em várias
+	O objetivo deste material é apresentar a Arquitetura da conectividade LORA. Para isto, é interessante entender sobre Internet das Coisas, uma infraestrutura baseada em várias
   tecnologias que provê serviços para cidades, transporte, energia, indústria, edificações,
   dentre outros. Neste artigo, iremos explorar um pouco mais os assuntos que tratam da
   conectividade LORA.. Essa abordagem mostra que o LORA, um sistema complexo, pode ser 
