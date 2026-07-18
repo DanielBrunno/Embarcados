@@ -7,7 +7,7 @@
   Para isto, é interessante entender sobre Internet das Coisas, uma infraestrutura baseada em várias
   tecnologias que provê serviços para cidades, transporte, energia, indústria, edificações,
   dentre outros. Neste artigo, iremos explorar um pouco mais os assuntos que tratam da
-  conectividade LORA.. Essa abordagem mostra que o LORA, um sistema complexo, pode ser 
+  conectividade LORA. Essa abordagem mostra que o LORA, um sistema complexo, pode ser 
   4analisado de várias formas. Os modelos aqui complementam o conteúdo, e materiais
   adicionais nas referências serão sugeridos para aprofundar os estudos. Ainda, haverá
   apresentação de modelos arquiteturais para Sistemas Embarcados: o primeiro com quatro camadas 
